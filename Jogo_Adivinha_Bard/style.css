@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    margin: 0 0 10px 0;
+  }
+  
+  input {
+    width: 50px;
+  }
+  
+  span {
+    font-weight: bold;
+  }
